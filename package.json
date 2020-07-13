@@ -1,0 +1,23 @@
+{
+  "name": "foxbot",
+  "version": "1.0.0",
+  "description": "Text bot for community Discord server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallingfox/foxbot.git"
+  },
+  "author": "FallingFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallingfox/foxbot/issues"
+  },
+  "homepage": "https://github.com/fallingfox/foxbot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
